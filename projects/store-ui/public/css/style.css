@@ -102,13 +102,13 @@ img {
 	text-transform: uppercase;
 }
 #header div ul li.selected a, #header div ul li.selected a:hover {
-	color: #cb3362;
+	color: #316e8a;
 }
 #header div ul li a:hover, #header div ul li.menu:hover ul li a {
-	color: #c8c10d;
+	color: #1f3153;
 }
 #header div ul li ul li a {
-	color: #cb3362;
+	color: #316e8a;
 	font-family: lato-regular-webfont;
 	font-size: 15px;
 	font-weight: normal;
@@ -236,7 +236,7 @@ img {
 	width: 560px;
 }
 #body.home div.body div div h2 {
-	color: #E32A62;
+	color: #1082af;
 	display: block;
 	font-family: magra-bold-webfont;
 	font-size: 30px;
@@ -272,10 +272,10 @@ img {
 	text-decoration: underline;
 }
 #body.home div.body div div p a:hover {
-	color: #c8c10d;
+	color: #222968;
 }
 #body.home div.footer {
-	background-color: #c8c10d;
+	background-color: #222968;
 	margin: 0;
 	max-width: none;
 	padding: 0;
@@ -340,7 +340,7 @@ img {
 	width: 100%;
 }
 #body div.header {
-	background-color: #c8c10d;
+	background-color: #222968;
 	margin: 0 auto;
 	max-width: none;
 	overflow: hidden;
@@ -414,7 +414,7 @@ img {
 	width: 169px;
 }
 #body div.footer div h1 {
-	color: #CB3362;
+	color: #316e8a;
 	font-family: lato-regular-webfont;
 	font-size: 24px;
 	font-weight: normal;
@@ -450,7 +450,7 @@ img {
 	text-decoration: underline;
 }
 #body div.footer div p a:hover, #body div ul li p a:hover, #body div.blog .featured ul li div p a:hover, #body div.blog .sidebar p a:hover, #body div.blog .featured p a:hover, #body.contact div.body div div p a:hover {
-	color: #c8c10d;
+	color: #222968;
 }
 #body div {
 	margin: 0 auto;
@@ -472,7 +472,7 @@ img {
 	width: 220px;
 }
 #body div ul li h1 {
-	color: #E32A62;
+	color: #1082af;
 	font-family: magra-bold-webfont;
 	font-size: 28px;
 	font-weight: normal;
@@ -510,7 +510,7 @@ img {
 	width: auto;
 }
 #body div ul li h2 {
-	color: #e32a62;
+	color: #1082af;
 	font-family: lato-regular-webfont;
 	font-size: 20px;
 	font-weight: normal;
@@ -576,7 +576,7 @@ img {
 	width: 370px;
 }
 #body div.blog .featured ul li div h1 {
-	color: #CB3362;
+	color: #316e8a;
 	font-family: lato-regular-webfont;
 	font-size: 24px;
 	font-weight: normal;
@@ -635,7 +635,7 @@ img {
 	width: 156px;
 }
 #body div.blog .featured ul li div a.more:hover {
-	background-color: #c8c10d;
+	background-color: #222968;
 	border: none;
 	color: #ffffff;
 	height: 40px;
@@ -658,7 +658,7 @@ img {
 	width: 156px;
 }
 #body div.blog .featured a.load:hover {
-	background-color: #cb3362;
+	background-color: #316e8a;
 	border: none;
 	color: #ffffff;
 	height: 40px;
@@ -680,7 +680,7 @@ img {
 	width: 280px;
 }
 #body div.blog .sidebar h1, #body div.singlepost .sidebar h1 {
-	color: #CB3362;
+	color: #316e8a;
 	font-family: magra-bold-webfont;
 	font-size: 30px;
 	font-weight: normal;
@@ -697,7 +697,7 @@ img {
 	width: auto;
 }
 #body div.blog .sidebar h2, #body div.singlepost .sidebar h2 {
-	color: #CB3362;
+	color: #316e8a;
 	font-family: lato-regular-webfont;
 	font-size: 24px;
 	font-weight: normal;
@@ -758,7 +758,7 @@ img {
 	width: 156px;
 }
 #body div.blog .sidebar a.more:hover, #body div.singlepost .sidebar a.more:hover {
-	background-color: #c8c10d;
+	background-color: #222968;
 	border: none;
 	color: #ffffff;
 	height: 40px;
@@ -772,7 +772,7 @@ img {
 	width: auto;
 }
 #body div.singlepost .featured h1 {
-	color: #CB3362;
+	color: #316e8a;
 	font-family: lato-regular-webfont;
 	font-size: 24px;
 	font-weight: normal;
@@ -830,7 +830,7 @@ img {
 	width: 156px;
 }
 #body div.singlepost .featured a.load:hover {
-	background-color: #c8c10d;
+	background-color: #222968;
 	border: none;
 	color: #ffffff;
 	height: 40px;
@@ -866,7 +866,7 @@ img {
 	width: auto;
 }
 #body.contact div.body div div h1 {
-	color: #CB3362;
+	color: #316e8a;
 	float: left;
 	font-family: lato-regular-webfont;
 	font-size: 24px;
@@ -908,7 +908,7 @@ img {
 	width: 590px;
 }
 #body div.footer .contact h1 {
-	color: #CB3362;
+	color: #316e8a;
 	float: none;
 	font-family: lato-regular-webfont;
 	font-size: 24px;
@@ -976,7 +976,7 @@ img {
 	width: 141px;
 }
 #body div.footer .contact form input#submit:hover {
-	background-color: #c8c10d;
+	background-color: #222968;
 	border: none;
 	height: 40px;
 	width: 141px;
@@ -990,7 +990,7 @@ img {
 	width: 280px;
 }
 #body div.footer .section h1 {
-	color: #CB3362;
+	color: #316e8a;
 	display: block;
 	font-family: lato-regular-webfont;
 	font-size: 24px;
@@ -1020,7 +1020,7 @@ img {
 }
 /*----------------------------------------footer-styles---------------------------------------*/
 #footer {
-	background-color: #cb3362;
+	background-color: #316e8a;
 	margin: 0;
 	padding: 0;
 	width: 100%;
